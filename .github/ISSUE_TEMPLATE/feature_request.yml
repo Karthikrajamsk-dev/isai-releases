@@ -1,0 +1,11 @@
+name: Idea
+description: Suggest a feature or improvement
+labels: [idea]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What would you like Isai to do, and why?
+    validations:
+      required: true

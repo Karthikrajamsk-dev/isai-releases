@@ -1,0 +1,36 @@
+name: Bug report
+description: Something in Isai doesn't work as expected
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Isai version
+      description: About → version, e.g. 1.1.0
+    validations:
+      required: true
+  - type: input
+    id: phone
+    attributes:
+      label: Phone and Android version
+      placeholder: e.g. Xiaomi 14, HyperOS 2, Android 15
+    validations:
+      required: true
+  - type: input
+    id: app
+    attributes:
+      label: Music app
+      placeholder: e.g. Spotify
+  - type: textarea
+    id: log
+    attributes:
+      label: Troubleshooting log (optional)
+      description: In Isai open Troubleshooting → Copy and paste it here. Remove anything you don't want to share.
+      render: text
