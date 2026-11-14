@@ -29,10 +29,13 @@ It doesn't play music itself – it shows what's playing on your lock screen and
 
 ## Install
 
-1. Download `Isai-x.y.z.apk` from the [latest release](../../releases/latest).
-2. Open it and allow your browser or file manager to **install unknown apps** when Android asks.
-3. Open Isai and follow the welcome tour – it explains every permission.
-4. Play a song, then lock your phone.
+📄 **Step-by-step guide with pictures: [Isai-Install-Guide.pdf](docs/Isai-Install-Guide.pdf)** (English + Tamil)
+
+1. **Turn off Play Protect first** – Play Store → your profile photo → **Play Protect** → ⚙ → turn off **Scan apps with Play Protect** and **Improve harmful app detection**. (Android blocks apps that aren't from the Play Store; you can turn it back on after installing.)
+2. Download `Isai-x.y.z.apk` from the [latest release](../../releases/latest).
+3. Open it, allow your browser or file manager to **install unknown apps**, then tap **Install → Open**.
+4. Follow the welcome tour – it explains every permission. If the *Notification access* switch is greyed out: Settings → Apps → Isai → ⋮ → **Allow restricted settings**.
+5. Play a song, then lock your phone.
 
 **Works on any Android phone** with Android 10 or newer – Samsung, Pixel, OnePlus, Xiaomi / Redmi / POCO, Oppo, Realme, Vivo, Motorola, Nothing and more. Setup adapts to your phone maker: it opens your brand's auto-start screen where one exists and links to battery tips for your exact phone.
 
