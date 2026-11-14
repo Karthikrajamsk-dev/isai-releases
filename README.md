@@ -85,6 +85,8 @@ No account, no ads, no analytics. Song title, artist, album and length go to [LR
 
 **Lyrics are wrong or missing.** In the player tap *Lyrics → Change* to pick another match, or *Sync − / +* to fix timing. Lyrics come from the LRCLIB community database.
 
+**The AOD or lock-screen player doesn't appear (Xiaomi, Redmi, POCO).** Turn on **Autostart** for Isai: Settings → Apps → Manage apps → Isai → **Autostart**. Also set *Battery saver* to **No restrictions**. Other brands with an auto-start screen (Oppo, Realme, Vivo, OnePlus) need the same – Isai's *Setup* page opens it for you.
+
 **It stops working after a while.** Set Isai's battery usage to *No restrictions* and follow the tips for your phone brand in *Setup*.
 
 ## Feedback
