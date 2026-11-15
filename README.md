@@ -89,6 +89,10 @@ No account, no ads, no analytics. Song title, artist, album and length go to [LR
 
 **It stops working after a while.** Set Isai's battery usage to *No restrictions* and follow the tips for your phone brand in *Setup*.
 
+## Support Isai ☕
+
+Isai is free, with no ads and no tracking. If it makes your music better, you can buy me a filter coffee over UPI: **`isai.karthik@axl`** (or in the app: *About → Buy me a filter coffee*). Totally optional.
+
 ## Feedback
 
 Found a bug or have an idea? [Open an issue](../../issues/new/choose). In Isai, *Troubleshooting → Copy* gives a log you can paste.
